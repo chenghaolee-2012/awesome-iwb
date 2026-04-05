@@ -2175,7 +2175,27 @@ ClassPaper v4 是一款现代化桌面课程表/壁纸/告示牌应用，基于R
 [![最新Beta版本](https://img.shields.io/github/v/release/SECTL/AssignSticker?include_prereleases&style=for-the-badge&label=测试版)](https://github.com/SECTL/AssignSticker/releases/)
 [![上次更新](https://img.shields.io/github/last-commit/SECTL/AssignSticker?style=for-the-badge&color=00b4ab&label=最后更新时间)](https://github.com/SECTL/AssignSticker/commits/master)
 [![下载统计](https://img.shields.io/github/downloads/SECTL/AssignSticker/total?style=for-the-badge&color=00b4ab&label=累计下载)](https://github.com/SECTL/AssignSticker/releases)
+</div>
+🏷 **关键词**：<br/>
+![作业看板](https://img.shields.io/badge/作业看板-white)
 
+<table align="center">
+<tr>
+    <td><img src="images/github-icon.svg" width="18" height="18"></td>
+    <td><b>GitHub</b></td>
+    <td><a href="https://github.com/SECTL/AssignSticker">SECTL/AssignSticker</a></td>
+</tr>
+<tr>
+    <td><img src="images/github-icon.svg" width="18" height="18"></td>
+    <td><b>开发者</b></td>
+    <td><img src="https://github.com/Xwei1645.png" width="20" height="20"/> <a href="https://github.com/Xwei1645/">Xwei1645</a></td>
+</tr>
+</table>
+
+<div align="center">
+
+<br/>
+<br/>
 
 
 ### ElectronClassScheduleX
