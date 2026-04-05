@@ -2192,7 +2192,7 @@ ClassPaper v4 是一款现代化桌面课程表/壁纸/告示牌应用，基于R
 <tr>
     <td><img src="images/github-icon.svg" width="18" height="18"></td>
     <td><b>开发者</b></td>
-    <td><img src="https://github.com/chenghaolee-2012.png" width="20" height="20"/> <a href="https://github.com/chenghaolee-2012"></a></td>
+    <td><img src="https://github.com/chenghaolee-2012.png" width="20" height="20"/> <a href="https://github.com/chenghaolee-2012">chenghaolee-2012</a></td>
 </tr>
 </table>
 
