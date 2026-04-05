@@ -128,6 +128,7 @@
 | 🔴 [ExamClock](#ExamClock) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/L33Z22L11/ExamClock?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/L33Z22L11.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/L33Z22L11.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/L33Z22L11">L33Z22L11</a> |
 | 🔴 [iClass](#iClass) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/gpuawa/iClass?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/gpuawa.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/gpuawa.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/gpuawa">gpuawa</a> |
 | 🔴 [FinitoBoard](#FinitoBoard) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/Xwei1645/finito_board?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/Xwei1645.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/Xwei1645.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/Xwei1645">Xwei1645</a> |
+| 🔴 [SECTL-AssignSticker](#AssignSticker) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/SECTL/AssignSticker) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=https://github.com/chenghaolee-2012.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/chenghaolee-2012.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/chenghaolee-2012.png">Chenghaolee-2012</a> |
 | 🔴 [ElectronClassScheduleX](#ElectronClassScheduleX) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/Enigfrank/ElectronClassScheduleX?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/Enigfrank.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/Enigfrank.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/Enigfrank">Enigfrank</a> |
 | 🔴 [每日作业面板](#每日作业面板) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/BearWhite-Z/Daily-Commission-Panel?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/BearWhite-Z.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/BearWhite-Z.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/BearWhite-Z">BearWhite-Z</a> |
 | 🔴 [LanMountainDesktop](#LanMountainDesktop) ![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/wwiinnddyy/LanMountainDesktop?label=) | <picture><source media="(prefers-color-scheme: dark)" srcset="https://images.weserv.nl/?url=github.com/wwiinnddyy.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=222"><img src="https://images.weserv.nl/?url=github.com/wwiinnddyy.png?v=4&h=64&w=64&fit=cover&mask=circle&maxage=7d&bg=fff" width="20" height="20"/></picture>&nbsp;<a href="https://github.com/wwiinnddyy">wwiinnddyy</a> |
@@ -2166,6 +2167,16 @@ ClassPaper v4 是一款现代化桌面课程表/壁纸/告示牌应用，基于R
 
 <br/>
 <br/>
+
+### AssignSticker
+
+[![GitHub Issues](https://img.shields.io/github/issues-search/SECTL/AssignSticker?query=is%3Aopen&style=for-the-badge&color=00b4ab&logo=github&label=问题)](https://github.com/SECTL/AssignSticker/issues)
+[![最新版本](https://img.shields.io/github/v/release/SECTL/AssignSticker?style=for-the-badge&color=00b4ab&label=最新正式版)](https://github.com/SECTL/AssignSticker/releases/latest)
+[![最新Beta版本](https://img.shields.io/github/v/release/SECTL/AssignSticker?include_prereleases&style=for-the-badge&label=测试版)](https://github.com/SECTL/AssignSticker/releases/)
+[![上次更新](https://img.shields.io/github/last-commit/SECTL/AssignSticker?style=for-the-badge&color=00b4ab&label=最后更新时间)](https://github.com/SECTL/AssignSticker/commits/master)
+[![下载统计](https://img.shields.io/github/downloads/SECTL/AssignSticker/total?style=for-the-badge&color=00b4ab&label=累计下载)](https://github.com/SECTL/AssignSticker/releases)
+
+
 
 ### ElectronClassScheduleX
 
